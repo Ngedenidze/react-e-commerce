@@ -17,6 +17,10 @@
 .logo {
   width: 100%;
 }
+.logo img{
+  width: 150px;
+  height: 150px;
+}
 
 .links {
   display: flex;
@@ -141,7 +145,7 @@
   .mobile-expanded-menu {
     position: absolute;
     width: 100%;
-    background-color: #ff8a15;
+    background-color: rgb(32 33 36);
     z-index: 3;
     max-height: 0;
     overflow: hidden;

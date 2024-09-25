@@ -7,7 +7,7 @@ const Banner = () => {
       <div className="banner">
         <div className="banner-text">
           <h1>
-            Grab upto 50% off on <br></br>selected Headphones
+          Feel the Beat, Live the Sound <br></br>– Elevate Your Event with ULTimate Sound Rentals!
           </h1>
           <span className="is-buy-now">
             <a href="#products">
