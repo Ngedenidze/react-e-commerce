@@ -6,6 +6,8 @@
   width: 60%;
   padding: 1rem;
   margin-bottom: 2rem;
+  border: #6163699a solid 0.5px;
+  border-radius: 10px;
 }
 
 .benefit-title {
@@ -18,7 +20,7 @@
 
 .benefit-icon {
   font-size: 2rem;
-  color: #ff6b08;
+  color: #202124;
 }
 
 .main-benefit {

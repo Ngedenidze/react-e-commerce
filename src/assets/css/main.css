@@ -25,11 +25,19 @@
 
 header,
 footer {
-  background-color: rgb(32 33 36);
+  background-color: rgba(32, 33, 36);
 }
 
 .hero-section {
-  background-color: rgb(32 33 36);
+  background: linear-gradient(
+    135deg,
+    #ffffff,  /* Start with white */
+    #d8b8e8 20%, /* Light purple variation */
+    #b58fcf 40%, /* Medium light purple */
+    #9474be 60%, /* Base color */
+    #9474be 80%, /* Darker purple */
+    #d8b8e8 100% /* Darkest purple */
+  );
   padding: 1rem;
   margin-bottom: 1rem;
 }
