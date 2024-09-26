@@ -1,5 +1,6 @@
 
 import speakers from "@/assets/images/speakers.png";
+import sonySpeaker from "@/assets/images/sony.png";
 import "./Banner.css";
 
 const Banner = () => {
@@ -52,7 +53,7 @@ const Banner = () => {
           </span>
         </div>
         <div className="subject">
-          <img src={speakers} alt="Sony Speaker" width={"50%"} />
+          <img src={sonySpeaker} alt="Sony Speaker" width={"50%"} />
         </div>
       </div>
     </div>
