@@ -28,7 +28,7 @@ const ShopFooter = () => {
             </li>
           </ul>
         </div>
-        <div className="bottom-sectino-right">copyright &copy; {newYear}</div>
+        <div className="bottom-sectino-right">ULTimate Sound Rentals &copy; {newYear}</div>
       </div>
     </div>
   );

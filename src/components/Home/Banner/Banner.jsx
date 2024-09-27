@@ -1,6 +1,6 @@
 
 import speakers from "@/assets/images/speakers.png";
-import sonySpeaker from "@/assets/images/sony.png";
+import sonySpeaker from "@/assets/images/sony1.png";
 import "./Banner.css";
 
 const Banner = () => {
